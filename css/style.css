@@ -62,7 +62,7 @@ img {
   margin-right: auto;
   padding-left: 16px;
   padding-right: 16px;
-  outline: 1px solid red;
+  /*outline: 1px solid red;*/
 }
 @media screen and (min-width: 428px) {
   .container {
@@ -897,8 +897,6 @@ img {
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  /*column-gap: 24px;
-  row-gap: 48px;*/
   gap: 48px 24px;
 }
 .project-card {
